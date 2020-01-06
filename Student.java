@@ -7,6 +7,7 @@ public class Student{
 			int  c=30;
 			
 			int jhf=2000;
+			ksdjfhsjkfgh
 		}
 	}
 }
