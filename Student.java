@@ -3,7 +3,8 @@ public class Student{
 		int a=10;
 		int b=20;
 		public void find(){
-			
+			int ab=10;
+			int  c=30;
 		}
 	}
 }
