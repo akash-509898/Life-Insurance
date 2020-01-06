@@ -5,6 +5,8 @@ public class Student{
 		public void find(){
 			int ab=10;
 			int  c=30;
+			
+			int jhf=2000;
 		}
 	}
 }
